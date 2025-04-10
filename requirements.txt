@@ -1,0 +1,5 @@
+pygame==2.1.2
+numpy==1.23.0
+tensorflow==2.9.0
+matplotlib==3.5.2
+gymnasium==0.28.1
