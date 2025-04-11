@@ -74,7 +74,7 @@ gymnasium==0.28.1
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/autoracer-ai.git
+   git clone https://github.com/Junioxzxz/autoracer-ai.git
    cd autoracer-ai
    ```
 
